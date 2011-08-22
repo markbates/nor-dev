@@ -1,0 +1,11 @@
+h1. Node on Rails
+
+h2. What is Node on Rails?
+
+Just what it sounds like. It's a "Ruby on Rails":http://www.rubyonrails.org style web framework written in "CoffeeScript":http://coffeescript.org and "Node.JS":http://nodejs.org.
+
+h2. DO NOT USE! NOT READY FOR PRODUCTION!!
+
+Please do not use this library yet. Currently I'm just playing around. This is not a framework you should be using right now!
+
+Copyright (c) 2011 markbates
