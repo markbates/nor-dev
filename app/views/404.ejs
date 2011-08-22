@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <title>404! - NOT FOUND!</title>
+    <style>
+      h1 {
+        color: red;
+      }
+    </style>
+  </head>
+<body>
+  <h1><%= req.url %> - NOT FOUND!</h1>
+  <p>
+    <h2>Request:</h2>
+    <pre><code><%= debug(req) %></code></pre>
+  </p>
+  <p>
+    <h2>Env:</h2>
+    <pre><code><%= debug(env) %></code></pre>
+  </p>
+</body>
+</html>

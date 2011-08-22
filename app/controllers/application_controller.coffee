@@ -1,0 +1,1 @@
+class global.ApplicationController extends Nor.ControllerBase
